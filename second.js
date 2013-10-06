@@ -1,3 +1,3 @@
-second = function(){
+var second = function(){
     console.log("feature finished");
 };
