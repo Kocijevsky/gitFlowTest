@@ -1,8 +1,8 @@
-newFeature = function(){
+var newFeature = function(){
     alert("new Feature");
 };
 
-customAlert = function(text){
+var customAlert = function(text){
     alert(text);
     console.log(text);
 };

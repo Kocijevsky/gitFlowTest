@@ -1,4 +1,4 @@
-second = function(){
+var second = function(){
     console.log("feature finished");
 };
 oneMore = function(){
