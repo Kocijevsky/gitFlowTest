@@ -1,5 +1,5 @@
 newFeature = function(){
-    alert("newFeature");
+    alert("new Feature");
 };
 
 customAlert = function(text){
